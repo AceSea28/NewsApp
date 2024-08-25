@@ -1,0 +1,1 @@
+#  Functions for managing news data, including database interactions.

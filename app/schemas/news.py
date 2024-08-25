@@ -1,0 +1,1 @@
+#  Schemas for news articles, used for validation and serialization in API requests and responses.

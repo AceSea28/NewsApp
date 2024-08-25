@@ -1,0 +1,5 @@
+# Lists all the Python packages required for the project.
+
+fastapi
+uvicorn
+sqlalchemy

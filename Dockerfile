@@ -1,0 +1,1 @@
+# Defines how to build a Docker image for the application.
